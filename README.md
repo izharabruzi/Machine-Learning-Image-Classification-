@@ -13,9 +13,7 @@ Basically, the project was to **measure understanding of Neural Network (NN)** u
 
 ## Dataset Description
 **The dataset is provided from Dicoding with images format**. Basically, the images inspired from traditional china games. **The images** itself were taken on **three category** of **hand-drawing which is rock, paper, scissors (batu, kertas, gunting)**. This is the example of dataset:
-![00nKV8oHuTGi20gq](https://user-images.githubusercontent.com/55840898/185761677-45ac5403-b29b-419c-a53b-1bfcc5b1581f.png)
-![0a3UtNzl5Ll3sq8K](https://user-images.githubusercontent.com/55840898/185761682-e31f9160-1c93-4c9d-89ea-9bc2e770414f.png)
-![0CSaM2vL2cWX6Cay](https://user-images.githubusercontent.com/55840898/185761686-55004c5c-50bd-47c2-aa0b-5aa64ed06d5b.png)
+# ![00nKV8oHuTGi20gq](https://user-images.githubusercontent.com/55840898/185761677-45ac5403-b29b-419c-a53b-1bfcc5b1581f.png)![0a3UtNzl5Ll3sq8K](https://user-images.githubusercontent.com/55840898/185761682-e31f9160-1c93-4c9d-89ea-9bc2e770414f.png)![0CSaM2vL2cWX6Cay](https://user-images.githubusercontent.com/55840898/185761686-55004c5c-50bd-47c2-aa0b-5aa64ed06d5b.png)
 
 ## Method
 First of all, The **augmentation** images were implementing from **ImageDataGenerator keras library**. Then for model itself using **sequential model** from keras with **configuration its layer** to get **high accuracy and minimum time to predict rock, paper, scissors (batu, kertas, gunting)**.
